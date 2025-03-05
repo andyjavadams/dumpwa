@@ -1,0 +1,17 @@
+{
+  "name": "dump-wa-grup",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp menggunakan @whiskeysockets/baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@hapi/boom": "^9.1.4",
+    "@whiskeysockets/baileys": "^6.5.0",
+    "pino": "^8.15.0"
+  },
+  "devDependencies": {},
+  "author": "andyjavadams",
+  "license": "MIT"
+}
